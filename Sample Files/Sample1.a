@@ -1,0 +1,12 @@
+func test():
+	return 4
+
+func main(int param1, int param2):
+	int x = 5 * test()
+	if x > 5:
+		x = 2
+	int z = x * 6
+	while z > 4:
+		z -= 1
+	z *= x
+	return z
