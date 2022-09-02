@@ -1,5 +1,5 @@
 # A
-*A* is a programming language made to target the 6502 CPU, for work on projects such as games for the NES.
+**A** is a programming language made to target the 6502 CPU, for work on projects such as games for the NES.
 
 It is all in a single C file, making it easy to use and compile for any platform. 
 
@@ -20,4 +20,4 @@ If you are in doubt, please check the sample files in the *Sample Files* directo
 
 
 
-PLEASE BE AWARE THAT *A* IS STILL IN A ALPHA STAGE OF DEVELOPMENT, AND BUGS ARE PLENTIFUL
+PLEASE BE AWARE THAT **A** IS STILL IN A ALPHA STAGE OF DEVELOPMENT, AND BUGS ARE PLENTIFUL
